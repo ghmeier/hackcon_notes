@@ -75,5 +75,5 @@ HackBSCA
  	- Send personal thank you cards for mentors (especially who helped a lot).
  - Inform sponsored mentors (providing SDKs) to come prepared with simple empty projects in popular languages/frameworks that have their SDKs setup in it.
 
-ACTION ITEM: Create online form system for the "mentor pool".
-ACTION ITEM: Create a tool for team building that's targeted for hackers with no previous experience to match with experienced.
+> **ACTION ITEM**: Create online form system for the "mentor pool".
+> **ACTION ITEM**: Create a tool for team building that's targeted for hackers with no previous experience to match with experienced.
