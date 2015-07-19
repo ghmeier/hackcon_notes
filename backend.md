@@ -5,9 +5,9 @@ Backend
  - Website -> static
  	- Subdomain: Example, registration.
  - STANDARDIZATION FOR BACKEND SERVICES!
- 	- **Action Item:** Talk to MLH (Niko?).
+ 	- **ACTION ITEM:** Talk to MLH (Niko?).
  - Consider creating an internal StackOverflow for giving badges (gamification for getting better mentors).
- - **Action Item:** Have a system with a map system and "discover" people who are working on a project (twitter handle as well).
+ - **ACTION ITEM:** Have a system with a map system and "discover" people who are working on a project (twitter handle as well).
 
 # How do you manage internal team tasks?
  - Notifsta -> http://notifsta.com/#/
@@ -45,4 +45,4 @@ Backend
 
 # Misc
 
-**Action Item:** Make a backend for the mentorship with a backend of Github Issues so that anyone can mentor (not sponsors).
+**ACTION ITEM:** Make a backend for the mentorship with a backend of Github Issues so that anyone can mentor (not sponsors).
